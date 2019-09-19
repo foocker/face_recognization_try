@@ -1,4 +1,4 @@
-*Benefit mainly from the following work, I have done some integration work myself, and some places need further optimization. I hope to update them in the future and make them complete.*
+*Benefit mainly from the following work, I did some work to make it more complete(face recognition system). some places need further optimization, like face align in faceboxes(same as retinaface),it will be updated in the future.*
 
 [InsightFace_Pytorch](https://github.com/TreB1eN/InsightFace_Pytorch)
 
